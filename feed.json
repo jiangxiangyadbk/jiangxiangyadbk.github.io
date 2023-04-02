@@ -1,7 +1,16 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "岛",
-    "description": "Hexo主题Ayer中文说明",
+    "title": "一只鸭子的窝",
+    "description": "阿巴阿巴",
     "home_page_url": "http://example.com",
-    "items": []
+    "items": [
+        {
+            "id": "http://example.com/2023/04/02/%E4%B8%80%E5%8F%AA%E9%B8%AD%E5%AD%90%E7%9A%84%E7%AA%9D/",
+            "url": "http://example.com/2023/04/02/%E4%B8%80%E5%8F%AA%E9%B8%AD%E5%AD%90%E7%9A%84%E7%AA%9D/",
+            "title": "酱香鸭的小窝",
+            "date_published": "2023-04-02T06:31:41.605Z",
+            "content_html": "<p>欢迎来到一只鸭子的窝!</p>\n<h2 id=\"建网站的原因\">建网站的原因</h2>\n<h3 id=\"这只鸭子15岁力\">这只鸭子15岁力</h3>\n<div class=\"highlight\"><pre class=\"code\"><code>祝他生日快乐吧\n</code></pre></div>\n<h2 id=\"懒了<span-class=\"bd-box\"><h-char class=\"bd bd-beg\"><h-inner>，</h-inner></h-char></span>就酱紫了\">懒了<span class=\"bd-box\"><h-char class=\"bd bd-beg\"><h-inner>，</h-inner></h-char></span>就酱紫了</h2>\n<p>你可以去b站玩玩捏: <a href=\"https://bilibili.com\">bilibili</a></p>\n<h3 id=\"awa\">awa</h3>\n",
+            "tags": []
+        }
+    ]
 }

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一只鸭子的窝</title>
+  <icon>https://www.gravatar.com/avatar/8a10ab50249733de6b970b9f1e8d4b10</icon>
+  <subtitle>面朝大海，春暖花开</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-04-02T09:04:04.650Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Eric Shen</name>
+    <email>3535917632@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>酱香鸭的小窝</title>
+    <link href="http://example.com/2023/04/02/%E4%B8%80%E5%8F%AA%E9%B8%AD%E5%AD%90%E7%9A%84%E7%AA%9D/"/>
+    <id>http://example.com/2023/04/02/%E4%B8%80%E5%8F%AA%E9%B8%AD%E5%AD%90%E7%9A%84%E7%AA%9D/</id>
+    <published>2023-04-02T06:31:41.605Z</published>
+    <updated>2023-04-02T09:04:04.650Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到一只鸭子的窝!</p><h2 id="建网站的原因">建网站的原因</h2><h3 id="这只鸭子15岁力">这只鸭子15岁力</h3><div class="highlight"><pre class="code"><code>祝他生日快乐吧</code></pre></div><h2 id="懒了<span-class="bd-box"><h-char class="bd bd-beg"><h-inner>，</h-inner></h-char></span>就酱紫了">懒了<span class="bd-box"><h-char class="bd bd-beg"><h-inner>，</h-inner></h-char></span>就酱紫了</h2><p>你可以去b站玩玩捏: <a href="https://bilibili.com">bilibili</a></p><h3 id="awa">awa</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎来到一只鸭子的窝!&lt;/p&gt;
+&lt;h2 id=&quot;建网站的原因&quot;&gt;建网站的原因&lt;/h2&gt;
+&lt;h3 id=&quot;这只鸭子15岁力&quot;&gt;这只鸭子15岁力&lt;/h3&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;code&quot;&gt;&lt;code&gt;祝他生日快乐吧
+&lt;/code</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

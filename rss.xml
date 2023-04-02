@@ -1,11 +1,26 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>岛</title>
+        <title>一只鸭子的窝</title>
         <link>http://example.com</link>
-        <description>Hexo主题Ayer中文说明</description>
+        <description>阿巴阿巴</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 02 Apr 2023 16:51:49 +0800</pubDate>
-        <lastBuildDate>Sun, 02 Apr 2023 16:51:49 +0800</lastBuildDate>
+        <pubDate>Sun, 02 Apr 2023 14:31:41 +0800</pubDate>
+        <lastBuildDate>Sun, 02 Apr 2023 14:31:41 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/04/02/%E4%B8%80%E5%8F%AA%E9%B8%AD%E5%AD%90%E7%9A%84%E7%AA%9D/</guid>
+            <title>酱香鸭的小窝</title>
+            <link>http://example.com/2023/04/02/%E4%B8%80%E5%8F%AA%E9%B8%AD%E5%AD%90%E7%9A%84%E7%AA%9D/</link>
+            <pubDate>Sun, 02 Apr 2023 14:31:41 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;欢迎来到一只鸭子的窝!&lt;/p&gt;
+&lt;h2 id=&#34;建网站的原因&#34;&gt;建网站的原因&lt;/h2&gt;
+&lt;h3 id=&#34;这只鸭子15岁力&#34;&gt;这只鸭子15岁力&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;code&#34;&gt;&lt;code&gt;祝他生日快乐吧
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&#34;懒了&lt;span-class=&#34;bd-box&#34;&gt;&lt;h-char class=&#34;bd bd-beg&#34;&gt;&lt;h-inner&gt;，&lt;/h-inner&gt;&lt;/h-char&gt;&lt;/span&gt;就酱紫了&#34;&gt;懒了&lt;span class=&#34;bd-box&#34;&gt;&lt;h-char class=&#34;bd bd-beg&#34;&gt;&lt;h-inner&gt;，&lt;/h-inner&gt;&lt;/h-char&gt;&lt;/span&gt;就酱紫了&lt;/h2&gt;
+&lt;p&gt;你可以去b站玩玩捏: &lt;a href=&#34;https://bilibili.com&#34;&gt;bilibili&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;awa&#34;&gt;awa&lt;/h3&gt;
+ ]]></description>
+        </item>
     </channel>
 </rss>
